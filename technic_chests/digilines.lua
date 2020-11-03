@@ -8,7 +8,6 @@ function technic.chests.send_digiline_message(pos, event, player, items)
 		player = player_name,
 		pos = pos
 	})
-	print(dump(items))
 end
 
 technic.chests.tube_digilines = {
